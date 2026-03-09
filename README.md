@@ -2,7 +2,7 @@
 
 # BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
-### Pilot Course: June 16-20, 2025 - San José, Costa Rica
+### HUB&SPOKES Course: June 16-20, 2025 - San José, Costa Rica
 
 ### Background
 A group of collaborators from CABANAnet and EMBL’s European Bioinformatics Institute (EMBL-EBI) have joined to address some disparities in bioscience-related AI through training. The BiotrAIn project, supported by the Chan Zuckerberg Initiative, aims to create a fundamental and sustainable curriculum on artificial intelligence (AI) for bioscientists from Latin America, including data science basics, and leading towards the use and application of AI to better solve biological and biomedical problems.

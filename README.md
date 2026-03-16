@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/c8f408d4-3f11-4c67-a3b6-7c4442f410e3)
 
-# BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in biosciences
+# BiotrAIn course: Concepts, approaches and applications of Artificial Intelligence in bioscience
 
 ### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
 

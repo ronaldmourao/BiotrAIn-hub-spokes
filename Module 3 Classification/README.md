@@ -66,4 +66,3 @@ By the end of this course, participants will be able to:
 
 ![image](https://github.com/user-attachments/assets/33d0775f-902c-4a0c-8bbc-6a7c7947a132)
 
-![image](https://github.com/user-attachments/assets/33d0775f-902c-4a0c-8bbc-6a7c7947a132)

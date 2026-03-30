@@ -10,7 +10,7 @@ This module explores the ethical challenges, social impacts, and regulatory issu
 It aims to promote critical reflection on how AI technologies are designed, implemented, and governed across different contexts, with special attention to issues of fairness, transparency, accountability, privacy, and social justice.
 You will be introduced to real-world case studies, interdisciplinary debates, and national/international frameworks that guide responsible AI development.
 
-### Collaborators
+### Collaborators 
 
 Cath Brooksbank, Head of Training, EMBL’s European Bioinformatics Institute, UK
 

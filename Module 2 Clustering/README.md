@@ -13,7 +13,7 @@ Nelly Sélem, Researcher Centro de Ciencias Matemáticas UNAM, México
 Victor Muñiz and Lilia Leticia Ramírez Ramírez CIMAT  
 David Alberto García Estrada Ph.D. Student CINVESTAV México   
 
-
+ 
 ### Secondee
 
 Jeanett Daga Quisbert  

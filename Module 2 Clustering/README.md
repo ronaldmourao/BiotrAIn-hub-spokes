@@ -27,6 +27,11 @@ Preprocess and analyze biological datasets using clustering algorithms, includin
    
 ## Materials and tutorials  
 
+### Theoretical classes and presentations
+[General Concepts in Clustering](https://docs.google.com/presentation/d/1uObB1o7u9Dwyu6pjvKTKtO_tpvQrtid_/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
+[Clustering: Dimensionality Reduction](https://docs.google.com/presentation/d/14IFKYBtE_miKg7nCuF2hJuadDwgs8N9K/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
+
+### Tutorials
 [Notebook 1 Understanding the EMP Dataset](https://colab.research.google.com/drive/13IgS-6J_gzDYdTlPzp4cxVk3pbZe05dZ)   
 [Notebook 2 Beta diversity](https://colab.research.google.com/drive/1h7PQhuDl-GZ3a4JTz4-k0Ybk2KfOcb_A)   
 [Notebook 3 Dimentional Reduction](https://colab.research.google.com/drive/1yAoF9JOnCPCRBMplS94W9-lBSlpGv2yc)   

@@ -41,6 +41,8 @@ Adrián Turjanski, Facultad de ciencias exactas y natirales, Universidad de Buen
 
 Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 
+### BiotrAIn community - Classrooms for Hub&Spokes
+
 ![image](https://github.com/BiotrAIn-community/BiotrAIn-hub-spokes/blob/main/Hub%26spokes%20IMAGE%20biotrain%204.jpg.jpeg)
 
 ## Learning outcomes

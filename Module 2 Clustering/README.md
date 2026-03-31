@@ -29,6 +29,7 @@ Preprocess and analyze biological datasets using clustering algorithms, includin
 
 ### Theoretical classes and presentations
 [General Concepts in Clustering](https://docs.google.com/presentation/d/1uObB1o7u9Dwyu6pjvKTKtO_tpvQrtid_/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
+
 [Clustering: Dimensionality Reduction](https://docs.google.com/presentation/d/14IFKYBtE_miKg7nCuF2hJuadDwgs8N9K/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
 ### Tutorials

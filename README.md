@@ -27,10 +27,11 @@ Juanita Riveros - EMBL-EBI, Events Organiser, UK
 
 Lizzie Bridget Divala - EMBL-EBI, Project manager, UK
 
-### BiotrAIn community
-Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
+### BiotrAIn community - Module coordinators
 
-Maria Ines Fariello, Facultad de Ingeniería, Universidad de la República, Uruguay
+Jose Arturo Molina Mora, Universidad de Costa Rica, Costa Rica
+
+Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
 
 Maria Fernanda Dias, Federal University of Rio de Janeiro (UFRJ) – Center for Health Sciences (CCS) – Institute of Biodiversity and Sustainability (NUPEM), Brazil
 

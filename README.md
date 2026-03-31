@@ -26,6 +26,7 @@ Cindy Aguilar Bartels - University of Costa Rica, Project manager, Costa Rica
 Juanita Riveros - EMBL-EBI, Events Organiser, UK
 
 Lizzie Bridget Divala - EMBL-EBI, Project manager, UK
+ 
 
 
 ### BiotrAIn community - Module coordinators
@@ -43,11 +44,13 @@ Adrián Turjanski, Facultad de ciencias exactas y natirales, Universidad de Buen
 Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 
 
+ 
 ### BiotrAIn community - Classrooms for Hub&Spokes
 
 ![image](https://github.com/BiotrAIn-community/BiotrAIn-hub-spokes/blob/main/Hub%26spokes%20IMAGE%20biotrain%204.jpg.jpeg)
 
 
+ 
 ## Learning outcomes
 By the end of this course, participants will be able to apply foundational concepts of artificial intelligence and machine learning to biological data, including situations in the LATAM context, leveraging their existing data analysis skills to:
 

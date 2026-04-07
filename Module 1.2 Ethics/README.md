@@ -46,9 +46,7 @@ d) Summarise steps to use AI responsibly
    
 ## Materials and tutorials
 
-[Welcome and Introduction]([https://docs.google.com/presentation/d/1paMQ0NwQof1AVyqLQ4pM2ytp8Ro9ESfn/edit?usp=drive_link&ouid=107014397602745866323&rtpof=true&sd=true])
-
-Mentimeter poll: Initial perceptions about AI
+[Welcome and Introduction](https://docs.google.com/presentation/d/1paMQ0NwQof1AVyqLQ4pM2ytp8Ro9ESfn/edit?usp=drive_link&ouid=107014397602745866323&rtpof=true&sd=true)
 
 [Episode 1: Where is AI being used in biomedicine?](https://docs.google.com/presentation/d/1PHCmFkPByrbDJP97AhxgQWfynsb_Kk48/edit?slide=id.p1#slide=id.p1)
 

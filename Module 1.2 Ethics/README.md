@@ -20,7 +20,7 @@ Helder Nakaya, Principal Investigator, Computational System Biology Laboratory, 
 
 Mallory Freeberg, Human Genomics Team Leader, EMBL’s European Bioinformatics Institute, UK
 
-Georgia Renne, Interim Senior Ethics Officer, European Molecular Biology Laboratory, Germany
+Giorgia Renne, Interim Senior Ethics Officer, European Molecular Biology Laboratory, Germany
 
 Lucia von Bredow, Ethics Lead, Bioethics, Services, European Molecular Biology Laboratory, Germany
 

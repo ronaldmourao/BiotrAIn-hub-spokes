@@ -53,6 +53,8 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 [Publication: A first perturbome of Pseudomonas aeruginosa: Identification of core genes related to multiple perturbations by a machine learning approach](https://www.sciencedirect.com/science/article/pii/S0303264721000666?via%3Dihub)
 
+[Publication: Core Perturbomes of Escherichia coli and Staphylococcus aureus Using a Machine Learning Approach](https://www.mdpi.com/2076-0817/14/8/788)
+
 [Application 1: GO classification](https://colab.research.google.com/drive/1t4UZeBoU9joe_Q70lRPX4WyPGf2zj8H_#scrollTo=JnPNlsMNrJks)
 
 * [Tutorial in R: GO Classification](https://www.cifasis-conicet.gov.ar/bioinformatica/fgga/GO_classification_BiotrAIn.html)

@@ -25,6 +25,11 @@ By the end of this course, participants will be able to:
     
 1. Deliver AI contents with best teaching/learning practices in biological research.
    
+## Recording - Theoretical content
+Local instructors can deliver the theoretical content directly or use this recording:
+
+[Train-the-trainer](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1be61dd7-b3dd-486f-8407-b3e2010e7dba)
+
 ## Materials and tutorials
 
 Module 5: Train the trainer: https://docs.google.com/presentation/d/1gc56hFMuPj4c0gkcYFOHQAqITdUTDZ30wa_8JbejFOw/edit?usp=sharing

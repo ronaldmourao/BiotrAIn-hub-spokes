@@ -4,7 +4,7 @@
 
 ### Hub&Spokes Course: April 20-24, 2026 - Costa Rica/Argentina/Brazil/Chile/México/Colombia
 
-## Module #1.1: General concepts in AI 
+## Module #0: Pre-processing 
 
 ### Collaborators
 

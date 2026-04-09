@@ -39,7 +39,7 @@ Activities guideline: https://docs.google.com/document/d/1zlObDrkjBCFM8Ehm94nPDz
 
 ## Recording - Theoretical content
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7e854b8f-dbd6-4e71-9f5f-b4030104ce93)
 
 
 ## License

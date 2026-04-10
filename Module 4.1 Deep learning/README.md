@@ -37,17 +37,36 @@ Local instructors can deliver the theoretical content directly or use this recor
 
    
 ## Materials and tutorials
-[*Introduction slides*](https://docs.google.com/presentation/d/1A1bt5OBo7YuX_YoV4ORMC7DKHngJTi9D/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Establish a foundational understanding of Deep Learning, including its place within the broader field of Artificial Intelligence, the main learning paradigms, and widely-used development frameworks.
-<br>
-[*How Deep Learning works slides*](https://docs.google.com/presentation/d/1aMxVvYJRQghqzJCXnw0vXT686iXuGzXc/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Explain how deep learning models function, including key components of training, optimization, evaluation, and common challenges.
-<br>
-[*Deep Learning architectures*](https://docs.google.com/presentation/d/14JGC3XWpLIB23Ww6tjk_vm2C0EWST3xX/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Introduce key neural network architectures used in biology, highlighting when and how to use each type.
-<br>
-[*Case 1:*](https://colab.research.google.com/drive/1m3dITTWmBAjJtKwxn04C4ZyKcNzRGr0P?usp=sharing): build and train a neural network to predict the solubility of chemical compounds
+
+### Slides:
+[**Introduction**](https://docs.google.com/presentation/d/1A1bt5OBo7YuX_YoV4ORMC7DKHngJTi9D/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Establish a foundational understanding of Deep Learning, including its place within the broader field of Artificial Intelligence, the main learning paradigms, and widely-used development frameworks.
+<br><br>
+[**How Deep Learning works**](https://docs.google.com/presentation/d/1aMxVvYJRQghqzJCXnw0vXT686iXuGzXc/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Explain how deep learning models function, including key components of training, optimization, evaluation, and common challenges.
+<br><br>
+[**Deep Learning architectures**](https://docs.google.com/presentation/d/14JGC3XWpLIB23Ww6tjk_vm2C0EWST3xX/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Introduce key neural network architectures used in biology, highlighting when and how to use each type.
+<br><br>
+
+### Practical Cases  
+Each case study is supported by two types of notebooks:
+
+- **Attendee Notebook:** Designed for hands-on learning, including guided activities and TODO tasks to actively engage attendees in the implementation process.  
+- **Reference Notebook:** Provides a complete and fully functional implementation to support instructors and serve as a reference solution.  
+
+**Case 1: Molecular Property Prediction using [ESOL Dataset](https://drive.google.com/file/d/1QL5lZp3m5mDQ_ilaoTdcZb5IUpNipTH-/view?usp=drive_link):** build and train a neural network to predict the solubility of chemical compounds
 using molecular descriptors from the ESOL dataset.
 <br>
-[*Case 2:*](https://colab.research.google.com/drive/1Yl6lq9mxe2iKFSV-yKwN_t_QOFsntCp6?usp=sharing):  fine-tune a pre-trained language model for DNA sequences (DNABERT-2) to classify COVID-19 variants.
+
+- [**Attendee Notebook**](https://colab.research.google.com/drive/1ftLsl-zWUGzm9P8nraOUMQ5NWnzZbifu)
+- [**Reference Notebook**](https://drive.google.com/file/d/1nWd3MmBVT9deujkys4UPTAu4pci87EtC/view?usp=drive_link)  
+
+
+**Case 2: Genomic Sequence Classification (DNABERT-2)**:  fine-tune a pre-trained language model for DNA sequences (DNABERT-2) to classify COVID-19 variants.
 <br>
+
+- [**Attendee Notebook**](https://drive.google.com/file/d/14FZwBxZTHFNJ3CXurkMtYOah28U07lFb/view?usp=drive_link)
+- [**Reference Notebook**](https://drive.google.com/file/d/1XKN_rQerBXynjrDnPZ62aGhS5X50TgtJ/view?usp=drive_link) 
+- [**Dataset**](https://drive.google.com/file/d/1NabkL2UGQaDF8DcNUtOeHTt2fjq0r2vr/view?usp=drive_link) 
+
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.

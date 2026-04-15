@@ -39,7 +39,7 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 ## Materials and tutorials
 
-**Before the course:** Install and learn how to use PyMOL.
+**Before the course:** We recommend install and learn how to use PyMOL, mainly if you are using your computer.
 
 Go to [https://www.pymol.org/](https://www.pymol.org/), click the **Download** button, and choose **PyMOL 3.1** and the version corresponding to your operating system.
 Then, to obtain a license, go to [https://pymol.org/edu/](https://pymol.org/edu/) and fill out the form. You will receive an email with information on how to download the license.

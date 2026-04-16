@@ -49,26 +49,26 @@ Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 
 ![image](https://github.com/BiotrAIn-community/BiotrAIn-hub-spokes/blob/main/Hub%26spokes%20IMAGE%20biotrain%204.jpg.jpeg)
 
-# University of Costa Rica, Costa Rica
+*University of Costa Rica, Costa Rica*
 Cath Brooksbank
 Jose Molina Mora
 Rebeca Campos Sánchez
 Maikol Solis Chacón
 
-# University of Antioquia in Medellín, Colombia
+*University of Antioquia in Medellín, Colombia*
 Benilton Carvalho
 Hernan Salinas
 Isabella Gallego
 Olga López Acevedo
 Yesid Cuesta Astroz
 
-# University Andres Bello, Santiago, Chile
+*University Andres Bello, Santiago, Chile*
 Felipe Sepulveda 
 Juan F. Calderon
 Juan A. Ugalde
 Romina Sepulveda
 
-# ENES Unidad León, National Autonomous University of Mexico, Mexico
+*ENES Unidad León, National Autonomous University of Mexico, Mexico*
 Alejandra Rougon Cardoso
 Cesaré Ovando-Vázquez
 Noé García Chávez
@@ -77,7 +77,7 @@ Víctor Muñiz
 Miguel Angel Magaña
 Varinia López Ramírez
 
-# University of Buenos Aires (FCEN-UBA), Argentina
+*University of Buenos Aires (FCEN-UBA), Argentina*
 Adrián Turjanski
 Carla Filippi
 Juan Antonio Bizzotto
@@ -85,7 +85,7 @@ Marcelo Martí
 María Inés Fariello
 María Sol Ruíz
 
-# Aggeu Magalhães Institute / Fiocruz Pernambuco, Brazil
+*Aggeu Magalhães Institute / Fiocruz Pernambuco, Brazil*
 Beatriz Melo
 Camila Lins
 João Pitta
@@ -95,7 +95,7 @@ Matheus Azevedo
 Nicole Scherer
 Túlio Campos
 
-# CIFASIS, Argentina
+*CIFASIS, Argentina*
 Elizabeth Tapia
 Flavio Spetale
 Gustavo Rodriguez

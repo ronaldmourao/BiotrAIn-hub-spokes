@@ -51,10 +51,10 @@ Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 
 *University of Costa Rica, Costa Rica*
 
-Cath Brooksbank
-Jose Molina Mora
-Rebeca Campos Sánchez
-Maikol Solis Chacón
+* Cath Brooksbank
+* Jose Molina Mora
+* Rebeca Campos Sánchez
+* Maikol Solis Chacón
 
 *University of Antioquia in Medellín, Colombia*
 

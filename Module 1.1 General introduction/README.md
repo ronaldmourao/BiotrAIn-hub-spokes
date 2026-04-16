@@ -34,7 +34,10 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 [General introduction: BiotrAIn project](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
+Time to explore concepts: 
+
 [Exploring Clustering](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/)
+
 [Exploring Classification](https://app.landing.ai/app/95253393852424/examples)
 
 Presentations:

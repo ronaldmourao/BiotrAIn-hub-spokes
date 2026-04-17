@@ -34,6 +34,12 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 [Module 5: Train the trainer](https://docs.google.com/presentation/d/1L_ggvacaTok6yhSXQfKcFY05JysG5Cx5/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
+[Detailed guide to deliver the short version, including activities](https://docs.google.com/document/d/1x8Ybn6dTS60pZ6V4Bfx2Jh7GIgr65NQiKAToAsjEA1E/edit?tab=t.0)
+
+[Module 5: Train the trainer short version for hub and spokes](https://docs.google.com/presentation/d/1GO-mdMP0VS9eAMO1ahKtFwbToYj9OWVZhg8u5dHUQyA/edit?usp=sharing)
+
+[Module 5: Train the trainer long version from the pilot course ](https://docs.google.com/presentation/d/1L_ggvacaTok6yhSXQfKcFY05JysG5Cx5/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
 

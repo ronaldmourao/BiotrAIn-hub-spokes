@@ -32,7 +32,7 @@ Local instructors can deliver the theoretical content directly or use this recor
 
 ## Materials and tutorials
 
-Module 5: Train the trainer: https://docs.google.com/presentation/d/1gc56hFMuPj4c0gkcYFOHQAqITdUTDZ30wa_8JbejFOw/edit?usp=sharing
+[Module 5: Train the trainer](https://docs.google.com/presentation/d/1L_ggvacaTok6yhSXQfKcFY05JysG5Cx5/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
